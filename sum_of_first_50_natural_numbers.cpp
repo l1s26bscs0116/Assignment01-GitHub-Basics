@@ -1,7 +1,7 @@
 
 /*
 Program Title: Sum of First 50 Natural Numbers
-Name: Muhammad Hashi Aftab
+Name: Muhammad Hashim Aftab
 Registration Number: L1S26BSCS0116
 Assignment Number: 1
 */
